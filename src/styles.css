@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --max-w-bounded: 1280px;
+}
