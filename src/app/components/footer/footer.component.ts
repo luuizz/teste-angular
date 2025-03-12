@@ -6,7 +6,6 @@ import { BoundedComponent } from '../bounded/bounded.component';
   standalone: true,
   imports: [BoundedComponent],
   templateUrl: './footer.component.html',
-  styleUrl: './footer.component.css'
 })
 export class FooterComponent {
 
